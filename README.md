@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes 
+# This project will be a simple html recipe that will be completed with the help of TOP. I will show my knowledge in HTML and be able to construct my ideas in an effective manner. Inshallah!
