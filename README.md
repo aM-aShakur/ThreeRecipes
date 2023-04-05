@@ -1,2 +1,1 @@
-# odin-recipes 
-# This project will be a simple recipes list. My favorite foods in one place! I will be using HTML primarily as this is the first project of the Odin-Project-Foundations. I am excited to make use of my skills in HTML. 
+This project is a simple HTML only site. Three of my favorite recipes, completed in my first year of Uni.
